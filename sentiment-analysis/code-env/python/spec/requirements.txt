@@ -1,4 +1,0 @@
-numpy
-scipy
-pybind11
-git+https://github.com/facebookresearch/fastText.git
